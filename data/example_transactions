@@ -1,0 +1,22 @@
+date	category	type	amount
+02-01-2025	Product Sales	income	15000
+06-01-2025	Consulting	income	4800
+09-01-2025	Rent	expense	3000
+10-01-2025	Salaries	expense	6200
+14-01-2025	Utilities	expense	850
+03-02-2025	Product Sales	income	16500
+08-02-2025	Consulting	income	5200
+09-02-2025	Rent	expense	3000
+12-02-2025	Salaries	expense	6400
+15-02-2025	Marketing	expense	2100
+02-03-2025	Product Sales	income	17200
+05-03-2025	Consulting	income	4900
+08-03-2025	Rent	expense	3000
+10-03-2025	Salaries	expense	6500
+12-03-2025	Utilities	expense	920
+16-03-2025	Travel	expense	1350
+03-04-2025	Product Sales	income	18100
+07-04-2025	Consulting	income	5600
+09-04-2025	Rent	expense	3000
+11-04-2025	Salaries	expense	6700
+15-04-2025	Marketing	expense	2600
